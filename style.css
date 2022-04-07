@@ -4,13 +4,33 @@ body {
 
 .title {
     color: white;
-    font-size: 40px;
+    font-size: 35px;
     text-align: center;
     font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
 }
 
 
-    .marginauto {
+.marginauto {
         margin: 10px auto 20px;
         display: block;
-    }
+}
+
+.list {
+    color: white;
+    font-size: 22px;
+    font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 600;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+  }
+
+  a:hover {
+    color: #e2b361;
+  }
+  
