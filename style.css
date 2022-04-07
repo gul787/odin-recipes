@@ -1,0 +1,9 @@
+body {
+    background-color: #212529;
+}
+
+.title {
+    color: white;
+    font-size: 45px;
+    text-align: center;
+}
