@@ -9,6 +9,19 @@ body {
     font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
 }
 
+h2 {
+    color: #e2b361;
+    font-size: 25px;
+    text-align: center;
+    font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.simple-text {
+    color: white;
+    font-size: 15px;
+    font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
 
 .marginauto {
         margin: 10px auto 20px;
